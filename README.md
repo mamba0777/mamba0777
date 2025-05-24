@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋!I'm Deivid (MAMBA)<br>🎨 Frontend Developer passionate about crafting exceptional digital experiences 🚀<br><br>💡 I am passionate about software development, focusing on frontend and UI/UX design. I love bringing ideas to life by building dynamic applications and optimizing user experiences with technologies like HTML, CSS, JavaScript, Angular, React, Laravel, and TypeScript.<br><br>🌱 I am currently diving deeper into software architecture, design patterns, and exploring mobile development with Flutter to expand my skill set.<br><br>🔎 I am looking for opportunities to collaborate on challenging projects, enhance my skills, and contribute innovative solutions to the digital world.</h2>
+<h2 align="center">Hi 👋!I'm Deivid (MAMBA)<br>🎨 Frontend Developer passionate about crafting exceptional digital experiences 🚀<br><br>💡 I am passionate about software development, focusing on frontend and UI/UX design. I love bringing ideas to life by building dynamic applications and optimizing user experiences with technologies like HTML, CSS, JavaScript, Angular, React, Laravel, and TypeScript.<br><br>🔎 I am looking for opportunities to collaborate on challenging projects, enhance my skills, and contribute innovative solutions to the digital world.</h2>
 
 ###
 
@@ -47,13 +47,6 @@
   </a>
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
